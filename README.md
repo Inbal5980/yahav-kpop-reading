@@ -1,2 +1,8 @@
-# yahav-kpop-reading
-הכוכבת של הקריאה ⭐ · K-Pop themed Hebrew reading game for kids
+# הכוכבת של הקריאה ⭐
+
+משחק קריאה בעברית בעולם ה-K-Pop לילדים, עם מוזיקה ודמויות.
+
+**לינק לאתר החי:** https://yahav-kpop-reading.sites.tab.bot/
+
+---
+אתר סטטי (HTML/CSS/JS). כדי להריץ מקומית: לפתוח את `index.html` בדפדפן, או להפעיל שרת פשוט בתיקייה.
